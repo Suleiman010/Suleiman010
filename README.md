@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Suleiman
-- 👀 I’m interested in deep learning and computer vision
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on machine learning - deep learning projects
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on python project
 - 📫 How to reach me gmail:suleimananwarmubarak@gmail.com
 
 <!---
