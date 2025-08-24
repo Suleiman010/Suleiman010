@@ -41,5 +41,4 @@ I enjoy working with **React**, **Vue**, and **Next.js**, and I'm currently expa
 ## 📫 Contact Me
 - **Email:** suleimananwarmubarak@gmail.com  
 - **LinkedIn:** [Suleiman Mubarak](https://www.linkedin.com/in/suleiman-mubarak-b801b9298)  
-- **GitHub:** [Suleiman Mubarak](https://github.com/yourusername)  
 
